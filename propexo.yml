@@ -1,4 +1,4 @@
-name: propexotest
+name: propexo
 channels:
   - conda-forge
   - defaults
@@ -147,5 +147,5 @@ dependencies:
     - urllib3==1.25.9
     - virga-exo==0.1
     - webencodings==0.5.1
-prefix: /Users/nbatalh1/.conda/envs/propexotest
+prefix: /Users/nbatalh1/.conda/envs/propexo
 
