@@ -422,7 +422,8 @@ def write_justification(planet_name, all_ps):
               ' and log $\kappa_{cld}$= '+str(np.min(p_array[:,1]))+' - '+str(np.max(p_array[:,1]))+
               '. With '+ chose+', '+str(test)+' of these atmospherics scenarios can be ' +
               'detected with p<0.05 significance. We define atmospheric detection as the ability'+
-             ' to reject, at this significance, a 2-parameter linear model.')
+             ' to reject, at this significance, a 2-parameter linear model. ' +
+             'But really we should check with a theorist to make sure we know what we are doing. ')
 
 def avail_mols():
     molecules = ['H2O' , 'CH4' , 'CO' , 'CO2', 'NH3' , 'N2' , 

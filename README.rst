@@ -1,7 +1,7 @@
 A Proposal Tutorial for Exoplanet Atmospheres
 =============================================
 
-Created for the Sagan Summer School
+Created for the Sagan Summer School. Huge thank you to Dr. Hannah Wakeford (Bristol) and Dr. Ehsan Gharib-Nezhad (NASA Ames) for comments and fixes. 
 
 Setup Up 
 --------
@@ -18,6 +18,13 @@ Create conda environment from `yml` file.
 .. code-block:: bash 
 
 	conda env create -f propexo.yml
+
+Activate environment and open up jupyter notebook. 
+
+.. code-block:: bash 
+
+	conda activate propexo
+	jupyter notebook
 
 Table of Contents
 -----------------

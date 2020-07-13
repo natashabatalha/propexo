@@ -123,7 +123,7 @@ dependencies:
     - panel==0.9.7
     - param==1.9.3
     - photutils==0.7.2
-    - picaso==2.0.1
+    - picaso==2.0.2
     - pyct==0.4.6
     - pymiescatt==1.7.5.4
     - pysynphot==0.9.14
