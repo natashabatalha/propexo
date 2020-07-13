@@ -94,7 +94,7 @@ dependencies:
     - batman-package==2.4.6
     - beautifulsoup4==4.9.1
     - bkcharts==0.2
-    - bokeh==0.12.6
+    - bokeh==2.1.1
     - chardet==3.0.4
     - chimera-exo==1.0
     - cycler==0.10.0
