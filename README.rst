@@ -1,5 +1,11 @@
-A Proposal Tutorial for Exoplanet Atmospheres
-=============================================
+Support Migrated
+================
+
+This repository has been migranted to `PICASO`. Please install `PICASO` and proceed to this tutorial here: 	https://natashabatalha.github.io/picaso/notebooks/workshops/SaganSchool2020/JWSTProposalTutorial.html
+
+
+A Proposal Tutorial for Exoplanet Atmospheres (support migrated)
+================================================================
 
 Created for the Sagan Summer School. Huge thank you to Dr. Hannah Wakeford (Bristol) and Dr. Ehsan Gharib-Nezhad (NASA Ames) for comments and fixes. 
 
